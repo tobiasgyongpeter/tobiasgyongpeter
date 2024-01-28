@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 👉 [LinkedIn](https://www.linkedin.com/in/tobias-peter-45061810a)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:I am a fun loving guy who loves to travel, learning new things and I enjoy working with data
+- 🆒 Fun fact:I am a fun loving guy who loves to travel, learning new things and I enjoy working with data
 
 <!---
 tobiasgyongpeter/tobiasgyongpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
